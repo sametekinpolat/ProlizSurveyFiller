@@ -11,5 +11,15 @@
       "48": "icon.png",
       "128": "icon.png"
     }
-  }
+    
+    
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "all_frames": true,
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
 }
