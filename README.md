@@ -6,7 +6,7 @@ A browser extension to automatically fill surveys of proliz.
 1. Download this folder.
 2. Open your browser extensions page (`chrome://extensions` or `edge://extensions`).
 3. Turn on **Developer mode** (top right switch).
-4. Click **Load unpacked** and select this folder.
+4. Click **Load unpacked** and select /src folder.
 
 ## How to Use
 1. Open a survey page on the student portal.
