@@ -24,3 +24,5 @@ OR
 I only used this on Student System of Arel University so I am not sure is it going to work on other Proliz made student systems but give it a try especially if your system looks like the following image
 
 ![Screenshot of the survey](anket.png)
+
+dang! we saved 15 seconds of our lives... I just... lost some more to make this.
